@@ -1,0 +1,1 @@
+export const SECRET = 'MU12HA34MM56ED8';

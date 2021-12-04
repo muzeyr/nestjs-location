@@ -1,0 +1,10 @@
+{
+  "type": "mysql",
+  "host": "85.95.237.78",
+  "port": 3306,
+  "username": "monetapo_locatio",
+  "password": "FVmI(B8Ya8w,",
+  "database": "monetapo_location",
+  "entities": ["src/**/**.entity{.ts,.js}"],
+  "synchronize": true
+}
